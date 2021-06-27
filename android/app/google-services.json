@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485711760545",
+    "project_id": "kamo-ya",
+    "storage_bucket": "kamo-ya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485711760545:android:9568f48a05c0408c4374e0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_wahyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485711760545-tibdd96c3t997cehtgpb8qrsa0m01g2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWn9VOzKUi-e-Z3o6ZEQeCLupQZo5M--8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485711760545-tibdd96c3t997cehtgpb8qrsa0m01g2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
